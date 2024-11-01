@@ -1,5 +1,5 @@
 import logo from "../assets/login.png";
-import square from "../assets/square.png";
+import square from "../assets/Square.png";
 import { NavLink, useLocation, useNavigate } from "react-router-dom";
 
 type Props = {
